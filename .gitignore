@@ -2,3 +2,4 @@ scripts/node_modules/
 scripts/temp/
 scripts/log/
 fonts/minecraft-ten/characters.json
+minecraft_title_generator.js
